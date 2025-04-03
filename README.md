@@ -34,7 +34,7 @@
 | 镜像站名称       | 网址                  | 支持版本            | 免费额度    | 功能亮点                   |
 |----------------|---------------------|-----------------|---------|------------------------|
 | 蛇语 AI       | [`snakegpt.work`](https://snakegpt.work)    | GPT-4, GPT-3.5 | 免费     | 支持 GPT4、AI 绘图       |
-| GPT 猫中文站   | [`gptcat.net`](https://gptcat.net/)       | GPT-4, GPT-o1 | 免费     | 中文界面，无广告           |
+| GPT 猫中文站   | [`gptcat.cc`](https://gptcat.cc/)       | GPT-4, GPT-o1 | 免费     | 中文界面，无广告           |
 | 熊猫 GPT       | [`ai-panda.xyz`](https://ai-panda.xyz/login?invite_code=34137c47)    | GPT-4, GPT-3.5 | 免费     | 稳定快速，支持 API 调用     |
 | 狗狗 GPT       | `gptdog.online`   | GPT-3.5        | 免费     | 简单易用，新手友好         |
 ## ChatGPT 官网与中文版的区别
