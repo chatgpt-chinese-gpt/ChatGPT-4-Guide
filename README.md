@@ -1,7 +1,7 @@
 # ChatGPT 官网中文版：免费使用指南与镜像站推荐（支持 GPT-4）
 
 > **全面解读 ChatGPT 中文版的使用方法，提供国内用户无需翻墙的镜像站推荐和快速上手教程。**   
-> **更新时间： 2025/05/13**   
+> **更新时间： 2025/05/14**   
 
 ## 项目介绍
 想要体验最强大的 AI 聊天工具 ChatGPT 却因访问受限而头疼？本项目整理了 **ChatGPT 中文版**的完整使用指南，包括国内可用的镜像站推荐和快速上手教程，无需翻墙即可畅享智能对话体验！
@@ -33,8 +33,8 @@
 
 | 镜像站名称       | 网址                  | 支持版本            | 免费额度    | 功能亮点                   |
 |----------------|---------------------|-----------------|---------|------------------------|
-| 蛇语 AI       | [`snakegpt.chat`](https://snakegpt.chat)    | GPT-4, GPT-3.5 | 免费     | 支持 GPT4、AI 绘图       |
-| GPT 猫中文站   | [`gptcat.cc`](https://gptcat.cc/)       | GPT-4, GPT-o1 | 免费     | 中文界面，无广告           |
+| 蛇语 AI       | [`snakegpt.com.cn`](https://snakegpt.com.cn)    | GPT-4, GPT-3.5 | 免费     | 支持 GPT4、AI 绘图       |
+| GPT 猫中文站   | [`chat2.gptcat.cc`](https://chat2.gptcat.cc/)       | GPT-4, GPT-o1 | 免费     | 中文界面，无广告           |
 | 熊猫 GPT       | [`ai-panda.xyz`](https://ai-panda.xyz/login?invite_code=34137c47)    | GPT-4, GPT-3.5 | 免费     | 稳定快速，支持 API 调用     |
 | 狗狗 GPT       | `gptdog.online`   | GPT-3.5        | 免费     | 简单易用，新手友好         |
 ## ChatGPT 官网与中文版的区别
@@ -67,7 +67,7 @@
 ## 如何快速开始使用 ChatGPT 中文版？
 
 ### 方法一：通过镜像站点快速体验
-1. **访问镜像站点**：选择推荐的镜像站（如 [`snakegpt.chat`](https://snakegpt.chat)）。
+1. **访问镜像站点**：选择推荐的镜像站（如 [`snakegpt.com.cn`](https://snakegpt.com.cn)）。
 2. **注册或直接使用**：
    - 注册：填写邮箱或手机号，完成注册。
    - 免注册：部分站点允许直接使用。
